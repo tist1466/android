@@ -1,0 +1,34 @@
+# Mẫu đánh giá chéo
+
+## Thông Tin Chung
+- **Tên Dự Án**: Calendar app
+- **Ngày**: 25/5
+- **Người Đánh Giá**: Hà Nhật Tiến
+
+## Hướng Dẫn
+Mỗi thành viên trong nhóm sẽ được đánh giá theo các tiêu chí dưới đây. Hãy đánh giá trung thực dựa trên mức độ đóng góp và hiệu quả làm việc của mỗi người trong dự án.
+
+## Tiêu Chí Đánh Giá
+### 1. Đóng góp vào dự án
+- **Điểm đánh giá**: (1-5) 3
+- **Nhận xét**: có đóng góp tích cực
+
+### 2. Tinh thần hợp tác
+- **Điểm đánh giá**: (1-5) 4
+- **Nhận xét**: rất tích cực hợp tác với các thành viên khác
+
+### 3. Trách nhiệm và thái độ
+- **Điểm đánh giá**: (1-5) 4
+- **Nhận xét**: thái độ nghiêm túc, chăm chỉ
+
+### 4. Kỹ năng giao tiếp
+- **Điểm đánh giá**: (1-5) 4
+- **Nhận xét**: giao tiếp tốt với tất cả thành viên trong nhóm
+
+### 5. Sáng tạo và đổi mới
+- **Điểm đánh giá**: (1-5) 2
+- **Nhận xét**: chưa có nhiều sáng tạo
+
+## Nhận Xét Chung
+(Phần này dành cho những nhận xét tổng thể về thành viên được đánh giá, bao gồm cả những gợi ý để cải thiện trong tương lai.)
+dành nhiều thời gian cho việc học code hơn học tiếng anh
