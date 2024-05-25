@@ -1,0 +1,41 @@
+## Thông Tin Chung
+- **Tên Dự Án**: Calender App
+- **Tuần**: 5
+- **Ngày**: 25/5/2024
+- **Nhóm Thực Hiện**: 
+  - Thành viên 1: Hà Nhật Tiến
+  - Thành viên 2: Hoàng Minh Hiếu	
+  - Thành viên 3: Hoàng Đình Trung
+  - Thành viên 4: Trịnh Công Minh
+
+## Mục Tiêu Tuần Này
+(Tóm tắt ngắn gọn mục tiêu chính của tuần này.)
+hoàn thành phần thiết kế giao diện
+## Công Việc Đã Hoàn Thành
+(Tóm tắt các công việc đã hoàn thành trong tuần này.)
+thiết kế giao diện trên figma 
+### Thành viên 1:
+- Công việc 1: thiết kế giao diện
+- Công việc 2:
+
+### Thành viên 2:
+- Công việc 1: thiết kế giao diện
+- Công việc 2:
+
+### Thành viên 3:
+- Công việc 1: thiết kế giao diện
+- Công việc 2:
+
+### Thành viên 4:
+- Công việc 1: thiết kế giao diện
+- Công việc 2:
+
+## Vấn Đề Gặp Phải
+(Tiêu điểm vào các vấn đề, thách thức mà nhóm gặp phải và cách giải quyết.)
+chưa phân chia được công việc cụ thể, tiến trình bị trì trệ
+## Kế Hoạch Tuần Tới
+(Phác thảo ngắn gọn các kế hoạch và mục tiêu dự kiến cho tuần tiếp theo.)
+hoàn thành code giao diện cho app, bắt đầu thực hiện các chức năng của app
+## Nhận Xét và Đề Xuất
+(Mọi nhận xét và đề xuất để cải thiện quá trình làm việc nhóm và tiến độ dự án.)
+mọi người cần chú tâm hơn vào dự án
